@@ -3,13 +3,14 @@
 
 
 ## About Me
+### Front-End React Developer with MERN-Stack Knowledge
 I am Mohaiminul Islam, a passionate Front-end Developer(React). My ultimate aspiration is to evolve into a Full Stack Web Development proficient in the MERN stack.
 
 ## :chart_with_upwards_trend: Current Stats
 
 <div align="center">
     <!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mohaiminul375&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mohaiminul375&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=0d1117&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
 </div>
 
 
@@ -47,7 +48,7 @@ I am Mohaiminul Islam, a passionate Front-end Developer(React). My ultimate aspi
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-## Statistics
+## :chart_with_upwards_trend: Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohaiminul375&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
