@@ -8,10 +8,9 @@ I am Mohaiminul Islam, a passionate Front-end Developer(React). My ultimate aspi
 
 ## :chart_with_upwards_trend: Current Stats
 
-<div align="center">
-    <!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mohaiminul375&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=DC5F00&stroke=DC5F00&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mohaiminul375&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 
 ## 🌐 connect with me
