@@ -1,6 +1,17 @@
 # Hi, 👋 Greetings from Mohaiminul
 <img src="https://raw.githubusercontent.com/mohaiminul375/mohaiminul375/main/banner.png" />
-## Front-End React Developer with MERN Stack Knowledge
+
+
+## About Me
+I am Mohaiminul Islam, a passionate Front-end Developer(React). My ultimate aspiration is to evolve into a Full Stack Web Development proficient in the MERN stack.
+
+## :chart_with_upwards_trend: Current Stats
+
+<div align="center">
+    <!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mohaiminul375&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
+</div>
+
 
 ## 🌐 connect with me
 
@@ -42,4 +53,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohaiminul375&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohaiminul375&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mohaiminul375/mohaiminul375/output/snake.svg" alt="Snake animation" />
