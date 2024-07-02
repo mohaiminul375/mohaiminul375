@@ -10,7 +10,7 @@ I am Mohaiminul Islam, a passionate Front-end Developer(React). My ultimate aspi
 
 <div align="center">
     <!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mohaiminul375&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=0d1117&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mohaiminul375&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=4A249D&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
 </div>
 
 
