@@ -25,6 +25,8 @@ I am Mohaiminul Islam, a passionate Front-end Developer(React). My ultimate aspi
 ### 👨‍💻 Front-End
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -41,6 +43,7 @@ I am Mohaiminul Islam, a passionate Front-end Developer(React). My ultimate aspi
 ### 🛠️ Tools & Platforms
 
 ![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=dd2c00)
+<!-- ![Next Auth](https://img.shields.io/badge/nextauth-%2320232a.svg?style=for-the-badge&logo=nextdotauth&logoColor=white) -->
 ![Vercel CLI](https://img.shields.io/badge/vercel%20cli-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%231e1e1e.svg?style=for-the-badge&logo=stripe&logoColor=%2364C4ED)
