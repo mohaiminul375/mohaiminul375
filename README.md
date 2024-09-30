@@ -26,8 +26,8 @@ I am Mohaiminul Islam, a passionate Front-end Developer(React). My ultimate aspi
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,7 +43,6 @@ I am Mohaiminul Islam, a passionate Front-end Developer(React). My ultimate aspi
 ### 🛠️ Tools & Platforms
 
 ![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=dd2c00)
-<!-- ![Next Auth](https://img.shields.io/badge/nextauth-%2320232a.svg?style=for-the-badge&logo=nextdotauth&logoColor=white) -->
 ![Vercel CLI](https://img.shields.io/badge/vercel%20cli-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%231e1e1e.svg?style=for-the-badge&logo=stripe&logoColor=%2364C4ED)
@@ -56,4 +55,5 @@ I am Mohaiminul Islam, a passionate Front-end Developer(React). My ultimate aspi
   <img src="https://github-readme-stats.vercel.app/api?username=mohaiminul375&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohaiminul375&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<!-- ![Next Auth](https://img.shields.io/badge/nextauth-%2320232a.svg?style=for-the-badge&logo=nextdotauth&logoColor=white) -->
 <!-- ![snake animation](https://github.com/<seu mohaiminul375>/<seu mohaiminul375>/blob/output/github-contribution-grid-snake2.svg) -->
