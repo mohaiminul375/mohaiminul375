@@ -57,3 +57,4 @@ I am Mohaiminul Islam, a passionate Front-end Developer(React). My ultimate aspi
 </div>
 <!-- ![Next Auth](https://img.shields.io/badge/nextauth-%2320232a.svg?style=for-the-badge&logo=nextdotauth&logoColor=white) -->
 <!-- ![snake animation](https://github.com/<seu mohaiminul375>/<seu mohaiminul375>/blob/output/github-contribution-grid-snake2.svg) -->
+![snake gif](https://github.com/mohaiminul375/mohaiminul375/blob/output/github-contribution-grid-snake.gif)
