@@ -1,5 +1,5 @@
 # Hi, 👋 Greetings from Mohaiminul
-<img src="https://raw.githubusercontent.com/mohaiminul375/mohaiminul375/main/Banner.png" />
+<img src="https://raw.githubusercontent.com/mohaiminul375/mohaiminul375/main/banner.png" />
 
 
 ## About Me
