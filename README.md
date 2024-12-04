@@ -4,7 +4,11 @@
 
 ## About Me
 ### Front-End React Developer with MERN-Stack Knowledge
-I am Mohaiminul Islam, a passionate Front-end Developer(React). My ultimate aspiration is to evolve into a Full Stack Web Development proficient in the MERN stack.
+
+I'm Md Mohaiminul Islam, a passionate Front-end Web Developer with a growing interest in coding and IT. While I’m currently focused on React.js and Next.js, my long-term goal is to become a Full Stack Web Developer, specializing in the MERN stack.
+Though I don't come from an IT background, my enthusiasm drives me to continuously learn and improve, providing the best services to my clients. I also have experience in social work through past volunteer roles, where I developed strong interpersonal skills that continue to benefit my professional journey.
+
+For me, coding isn't just a career it's a passion, and I’m dedicated to making a positive impact both in the tech world and my community..
 
 ## :chart_with_upwards_trend: Current Stats
 
