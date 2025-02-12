@@ -13,7 +13,7 @@ For me, coding isn't just a career it's a passion, and I’m dedicated to making
 ## :chart_with_upwards_trend: Current Stats
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mohaiminul375&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=DC5F00&sideLabels=AF47D2&currStreakNum=DC5F00&ring=DC5F00&currStreakLabel=DC5F00&sideNums=AF47D2" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mohaiminul375&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=DC5F00&sideLabels=AF47D2&currStreakNum=DC5F00&ring=DC5F00&currStreakLabel=DC5F00&sideNums=AF47D2" alt="mohaiminul's streak" />
 </p>
 
 
@@ -33,7 +33,8 @@ For me, coding isn't just a career it's a passion, and I’m dedicated to making
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logoColor=white)
+![NextUI](https://img.shields.io/badge/NextUI-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -46,7 +47,9 @@ For me, coding isn't just a career it's a passion, and I’m dedicated to making
 
 ### 🛠️ Tools & Platforms
 
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=dd2c00)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vercel CLI](https://img.shields.io/badge/vercel%20cli-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%231e1e1e.svg?style=for-the-badge&logo=stripe&logoColor=%2364C4ED)
